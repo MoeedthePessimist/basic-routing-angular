@@ -1,0 +1,14 @@
+.link {
+  padding: 1rem 2rem;
+  background-color: #000;
+  color: #eee;
+  font-family: monospace;
+  border-radius: 10px;
+  transition: all 0.5s ease-in-out;
+  cursor: pointer;
+}
+
+.link:hover {
+  background-color: #eee;
+  color: #000;
+}
